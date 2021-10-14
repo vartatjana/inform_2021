@@ -54,4 +54,3 @@ nose()
 t.goto(70, -10)
 mouse()
 turtle.exitonclick()
-
