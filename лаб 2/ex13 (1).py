@@ -1,6 +1,6 @@
 import turtle
 t = turtle.Pen()
-t.shape('turtle')
+t.shape('arrow')
 t.color('black')
 
 def face():
