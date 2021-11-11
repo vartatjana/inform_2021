@@ -105,7 +105,6 @@ hedgehog(-294, 54, 1)
 
 hedgehog(130, -130, 1)
 
-
 pygame.display.update()
 finished = False
 while not finished:
